@@ -93,7 +93,7 @@ This project is intended for educational purposes only. It should not be used to
 
 ## Author
 
-Tanmay Sharma
+Tanmay Sarkar Emon
 Cybersecurity Student
 
 ---
